@@ -1,0 +1,207 @@
+{
+    "meta": {
+      "theme": "stackoverflow"
+    },
+    "basics": {
+      "name": "McCoy Zanotto",
+      "label": "Technologies Enthusiast, PCBA Technician",
+      "image": "",
+      "email": "mccoy@mccoyryan.com",
+      "phone": "",
+      "summary": "With a rich background in various industries, including hardware and medical sectors, I bring a unique blend of skills and insights to the table. My commitment to fostering growth drives me to create environments where learning flourishes, enabling me to demonstrate my capabilities while continuously acquiring new ones. In my previous hardware roles, I honed my skills in firmware upgrades, soldering, robotics programming, and laser cutting, ensuring optimal performance and efficiency in production environments. I thrived on diagnosing complex issues, troubleshooting, and collaborating with cross-functional teams to implement process improvements. The skills honed in from going to school for phlebotomy, such as steady hands and acute awareness of subtleties, have proven invaluable in handling intricate PCBA work. Whether it's soldering tiny connections or diagnosing minute issues, I approach each task with the same level of care and precision. This unique blend of experiences has shaped me into a versatile professional, capable of navigating diverse challenges with precision to detail and accuracy.",
+      "location": {
+        "countryCode": "",
+        "address": "San Jose, California"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "mccoyryanzanotto",
+          "url": "https://www.linkedin.com/in/mccoyryanzanotto/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "SpaceX",
+        "position": "PCBA Technician (Swarm Team)",
+        "startDate": "2022-07-31",
+        "endDate": "2022-09-30",
+        "highlights": [
+      "Responsible for firmware upgrades on all devices within a large order fulfillment, guaranteeing optimal success for testing in the next phase.",
+      "Highly proficient in through hole soldering and rework as I was in charge of hand soldering extensive orders, consistently maintaining a high accuracy and meeting high-quality standards.",
+      "Programming robotics to help with the process of creating PCBAs, as well as diagnosing and troubleshooting complex issues, minimizing downtime and finding solutions to enhance production efficiency.",
+      "Experienced in laser cutting materials as well as making sure they are properly prepped to be installed.",
+      "Maintaining rigorous attention to detail through the assembly process, ensuring product consistency and adhering to, or exceeding standards.",
+      "Collaboration with other teams to identify process improvements and implement new practices to allow optimal functionality."
+  ],
+        "summary": "",
+        "url": "https://www.linkedin.com/company/30846",
+        "location": "Mountain View"
+      },
+      {
+        "name": "Apple",
+        "position": "Product Specialist, Sales Operations",
+        "startDate": "2019-08-31",
+        "endDate": "2020-01-31",
+        "highlights": [
+      "Thrived in a fast-paced, high-volume sales environment at Apple, adeptly responding to dynamic customer inquiries and internal requests.",
+      "Leveraged a deep understanding of Apple's extensive product portfolio to offer tailored, cost-effective solutions to customers, enhancing their overall experience.",
+      "Provided direct, personalized support to end customers, addressing their queries, concerns, and product needs with professionalism and product expertise.",
+      "Remained up-to-date with the latest product developments and market trends, enabling me to provide customers with accurate and timely information to inform their purchasing decisions."		
+        ],
+        "summary": "",
+        "url": "https://www.linkedin.com/company/162479",
+        "location": "San Francisco, California"
+      },
+      {
+        "name": "Pressed Juicery",
+        "position": "Shift Lead",
+        "startDate": "2017-11-30",
+        "endDate": "2018-01-31",
+        "highlights": [
+        "Excelled as a Shift Lead actively contributing to an efficient store environment by analyzing sales trends and enforcing proper operating procedures.",
+            "Helped with processes that streamlined inventory management and sales workflows, enhancing overall store efficiency and productivity.",
+            "Developed and applied a profound understanding of Pressed Juicery's mission and products, enabling me to provide expert guidance to customers, promote health and wellness.",
+            "Took a proactive role in identifying opportunities for process improvement, implementing solutions, and collaborating with team members to drive positive changes within the organization.",
+            "Demonstrated exceptional leadership skills by effectively supervising and coordinating shifts, ensuring that team members were well-equipped to meet customer needs and maintain operational excellence.",
+            "Fostered a collaborative and customer-centric work environment, facilitating team cohesion and delivering exceptional service to Pressed Juicery's valued customers.",
+            "Consistently contributed to achieving sales targets and enhancing the overall success of the store within a dynamic and competitive retail landscape.",
+            "Committed to personal and professional growth, continually seeking opportunities to expand product knowledge and sales skills to better serve the health-conscious community."
+        ],
+        "summary": "",
+        "url": "https://www.linkedin.com/company/2616992",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "name": "Starbucks",
+        "position": "Barista",
+        "startDate": "2017-04-30",
+        "endDate": "2017-07-31",
+        "highlights": [
+            "Ensured a delightful customer experience as a dedicated Barista and Cashier.",
+            "Mastered a wide range of drink orders and recipes with precision, consistently exceeding customer expectations.",
+            "Prioritized attention to detail and a commitment to quality to foster positive interactions and customer loyalty.",
+            "Gained extensive experience in opening and closing the store, overseeing vital tasks such as setting up food cases for visual appeal and organization.",
+            "Managed the organization of back fridges, ensuring correct storage and easy accessibility for efficient service.",
+            "Maintained a clean and tidy workspace to uphold the brand image and ensure a safe, hygienic environment for both customers and colleagues."
+              ],
+        "summary": "",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "name": "QofA School",
+        "position": "Website Manager",
+        "startDate": "2012-08-31",
+        "endDate": "2013-09-30",
+        "highlights": [
+            "Managed the website with a focus on creating and implementing user-friendly web content to enhance the online experience.",
+            "Curated a digital environment that effectively showcased products/services and offered a seamless and enjoyable user experience.",
+            "Emphasized the importance of information accessibility, maintaining constant and transparent communication channels for daily business updates.",
+            "nsured team members were well-informed and aligned with ongoing developments and objectives, sharing news, updates, and critical announcements.",
+            "Collaborated with design teams to contribute creatively, assisting in the development of captivating and visually appealing designs.",
+            "Designed with the goal of boosting user engagement and ultimately increasing conversion rates on the website.",
+            "Guided visitors toward desired actions, such as making purchases or signing up for services, through effective design strategies.",
+            "Integrated technical expertise with creative skills, enhancing the brand's online presence during my tenure as a website manager.",
+            "Developed the ability to work collaboratively across various departments, ensuring the website not only met but exceeded business goals."
+        ],
+        "summary": "",
+        "location": "San Jose"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "San Francisco LGBT Center",
+        "position": "Front Desk",
+        "startDate": "2018-03",
+        "endDate": "2019-04",
+        "summary": "",
+        "highlights": [
+            "Greeted and welcomed visitors at the SFLGBT Center's front desk, creating a warm and inclusive atmosphere for all.",
+            "Acquired proficiency in responding to a diverse range of information inquiries and requests for referrals, offering accurate and helpful guidance.",
+            "Provided valuable assistance to individuals seeking resources and services related to LGBTQ+ issues, healthcare, community support, and more.",
+            "Maintained a thorough understanding of the Center's programs, services, and events to effectively direct visitors and answer their questions.",
+            "Managed visitor sign-ins, appointments, and inquiries efficiently, ensuring a smooth and organized front desk operation.",
+            "Offered compassionate support to individuals seeking a safe and welcoming space, including those in crisis or seeking emotional assistance.",
+            "Collaborated closely with other staff members to address visitors' needs and connect them with appropriate resources and services.",
+            "Demonstrated cultural competency and sensitivity in interactions with a diverse range of visitors, respecting individual identities and backgrounds.",
+            "Played a vital role in creating a positive and inclusive environment, fostering a sense of belonging and support for all who entered the SFLGBT Center." 
+        ]
+      }
+    ],
+    "education": [
+        {
+        "institution": "Bay Area Medical Academy",
+        "area": "Phlebotomy Technician/Phlebotomist",
+        "studyType": "",
+        "startDate": "2020-09",
+        "endDate": "2020-10",
+        "score": "Passed NCCT"
+      },
+      {
+        "institution": "City College of San Francisco",
+        "area": "Social and Behavioral Sciences",
+        "studyType": "Associate of Science - AS",
+        "startDate": "2016-12-31",
+        "endDate": "2018-12-31"
+      },
+      {
+        "institution": "San Francisco State University",
+        "area": "Business Administration and Management, General",
+        "studyType": "",
+        "startDate": "2014-12-31",
+        "endDate": "2016-12-31"
+      }
+    ],
+    "awards": [],
+    "certificates": [
+      {
+        "name": "Certified User Experience Specialist (CUSX)",
+        "issuer": "Udacity",
+        "startDate": "2020-03-31",
+        "url": "https://confirm.udacity.com/6CCJTKMQ"
+      }
+    ],
+    "publications": [],
+    "skills": [
+       {
+        "name": "PCB Assembly",
+        "level": "",
+        "keywords": [
+          "PCBA Rework",
+          "Soldering",
+          "Firmware Provisioning",
+          "Precision Attention to Detail",
+          "Electronic Circuits",
+          "Laser Cutting"
+          ]
+      },
+      {
+        "name": "Robotics",
+        "level": "",
+        "keywords": [
+          "CNC Programming",
+          "Robotics Troubleshooting",
+          "Operational Efficiency"
+          ]
+      },
+      {
+        "name": "Medical Technologies",
+        "level": "",
+        "keywords": [
+          "Phlebotomy",
+          "Blood Collection",
+          "Personal Protective Equipment (PPE)"
+          ]
+      }
+      ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": ""
+      }
+    ],	
+    "interests": [],
+    "references": [],
+    "projects": []
+  }
